@@ -1,3 +1,4 @@
 # hello-world
-Example project
+Example project.
+
 I have edited this file 1 time.
